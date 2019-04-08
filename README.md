@@ -18,6 +18,10 @@ Another core concept of Mobx is computed values, which are generated from calcul
 
 ![Flow](src/MobxFlow.png)
 
+# Why use MobX?
+MobX is simpler to implement and requires less boilerplate than Redux. For smaller scale projects and apps, MobX is faster to implement because it is similar to the way you would normally code, while Redux is more complex. Redux will give you fuller access and control over dispatching actions and transforming state. MobX is better if you don't want to manually handle actions and state.
+
+
 # How do I run this app?
 
 Runs the app in the development mode.<br>
