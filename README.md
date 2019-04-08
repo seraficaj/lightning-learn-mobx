@@ -34,4 +34,5 @@ Click on the message bubble in the lower right to turn on Mobx Devtools. Opening
 
 - MobX Official tutorial: https://mobx.js.org/getting-started.html
 - Getting started with Mobx https://medium.com/@shoaibbhimani1392/getting-started-with-mobx-82306df92d90 
-- How to build your first app with Mobx and React
+- How to build your first app with Mobx and React https://hackernoon.com/how-to-build-your-first-app-with-mobx-and-react-aea54fbb3265
+- When to use Redux vs. Mobx https://github.com/mobxjs/mobx/issues/199
