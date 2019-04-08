@@ -27,8 +27,8 @@ const Counter = observer(props => (
   <section>
     {props.appState.count}
     <div>
-      <button onClick={props.appState.incCount}>Add</button>
-      <button onClick={props.appState.decCount}>Dec</button>
+      <button className="btn-lg btn-primary" onClick={props.appState.incCount}>Add</button>
+      <button className="btn-lg btn-primary" onClick={props.appState.decCount}>Dec</button>
       <DevTools />
       <div>Count by Three {props.appState.countByThree}</div>
       <div>Count by Four {props.appState.countByFour}</div>
